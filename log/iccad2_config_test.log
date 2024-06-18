@@ -1,0 +1,14 @@
+iccad2_config test with focal_loss --->INFO--->2024-06-13 11:22:27,166--->../benchmarks/iccad2/test/
+iccad2_config test with focal_loss --->INFO--->2024-06-13 11:22:27,166--->../models/iccad2/lzh/model-9999-0.3-focal_loss.ckpt
+iccad2_config test with focal_loss --->INFO--->2024-06-13 11:24:25,108--->正确预测热点数量：496, 实际热点数量：498，正确预测非热点数量：34988， 实际非热点数量：41298
+iccad2_config test with focal_loss --->INFO--->2024-06-13 11:24:25,109--->Hotspot Detection Accuracy is 0.995984
+iccad2_config test with focal_loss --->INFO--->2024-06-13 11:24:25,109--->False Alarm is 6310.000000
+iccad2_config test with focal_loss --->INFO--->2024-06-13 11:24:25,109--->False Positive Rate is 15.28%
+iccad2_config test with focal_loss --->INFO--->2024-06-13 11:24:25,112--->Test Runtime is 116.757336 seconds
+iccad2_config test with focal_loss --->INFO--->2024-06-13 11:27:27,920--->../benchmarks/iccad2/test/
+iccad2_config test with focal_loss --->INFO--->2024-06-13 11:27:27,920--->../models/iccad2/lzh/model-9999-0.3-focal_loss.ckpt
+iccad2_config test with focal_loss --->INFO--->2024-06-13 11:29:30,852--->正确预测热点数量：496, 实际热点数量：498，正确预测非热点数量：34988， 实际非热点数量：41298
+iccad2_config test with focal_loss --->INFO--->2024-06-13 11:29:30,852--->Hotspot Detection Accuracy is 0.995984
+iccad2_config test with focal_loss --->INFO--->2024-06-13 11:29:30,852--->False Alarm is 6310.000000
+iccad2_config test with focal_loss --->INFO--->2024-06-13 11:29:30,852--->False Positive Rate is 15.28%
+iccad2_config test with focal_loss --->INFO--->2024-06-13 11:29:30,852--->Test Runtime is 121.591908 seconds
