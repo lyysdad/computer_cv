@@ -1,6 +1,7 @@
 # computer_cv_work
 # 基于DCT和Squeeze and Excitation的光刻热点检测
-benchmarks是经过dct压缩后的数据集
+benchmarks是经过dct压缩后的数据集  由于benchmarks数据较大，此项目只存放了iccad1的数据，
+完整数据从https://drive.google.com/file/d/1egAIPwITz6cevItJZyOatD5YaaV9JuAa/view 下载，下载后解压到项目下
 ##
 ini是训练数据集的配置文件
 
